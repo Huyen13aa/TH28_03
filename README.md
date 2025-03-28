@@ -1,5 +1,5 @@
-# Luong Anh Quan
-### MSV:22810310380
+# Pham Ngoc Huyen
+### MSV:22810310376
 ## Ket Qua:
 ![Hinh anh Trang chu](0.png)
 ![Hinh anh Danh muc Gioi thieu](1.png)
